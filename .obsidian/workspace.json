@@ -1,0 +1,167 @@
+{
+  "main": {
+    "id": "6dffb0069845d9f6",
+    "type": "split",
+    "children": [
+      {
+        "id": "314101cbd8617a0a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0be04687f152b848",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Python/FastApi/env data/Секретные данные.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "00bef59f90c74dc3",
+    "type": "split",
+    "children": [
+      {
+        "id": "22b4397955ddc572",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5b63978310af414c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b1982feb00a96f78",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d0be1ee3c19ea9dc",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9b2924dc0d6c0c72",
+    "type": "split",
+    "children": [
+      {
+        "id": "689ad064fc45c774",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b86b6c6e718b2de7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Python/FastApi/env data/Секретные данные.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5f58450d34d2d9a4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Python/FastApi/env data/Секретные данные.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "163319b8e9c6707a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "bb247465d0a95fde",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Python/FastApi/env data/Секретные данные.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false
+    }
+  },
+  "active": "0be04687f152b848",
+  "lastOpenFiles": [
+    "Symbols.md",
+    "Python/FastApi/Global/FastApi.md",
+    "FastApi.md",
+    "Python/FastApi/DB/Создание сессий.md",
+    "Python/FastApi/env data/Без названия.md",
+    "Python/FastApi/env data/Секретные данные.md",
+    "Python/FastApi/DB/Без названия",
+    "Python/FastApi/Global",
+    "Python/FastApi/env data",
+    "Python/FastApi/Main",
+    "Python/FastApi/DB",
+    "Python/FastApi",
+    "Python",
+    "Untitled 1",
+    "Untitled"
+  ]
+}
