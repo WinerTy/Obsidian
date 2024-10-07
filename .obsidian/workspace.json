@@ -4,16 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "314101cbd8617a0a",
+        "id": "7239547c9a10a56f",
         "type": "tabs",
         "children": [
           {
-            "id": "0be04687f152b848",
+            "id": "f7e5d4712d4725ea",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "871f9df637c5ac09",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/FastApi/env data/Секретные данные.md",
+                "file": "Symbols.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +93,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/FastApi/env data/Секретные данные.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +109,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/FastApi/env data/Секретные данные.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +130,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Python/FastApi/env data/Секретные данные.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,22 +150,38 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "0be04687f152b848",
+  "active": "f7e5d4712d4725ea",
   "lastOpenFiles": [
-    "Symbols.md",
+    "Python/FastApi/env data/Секретные данные.md",
     "Python/FastApi/Global/FastApi.md",
+    "Python/Django/Global/Django.md",
+    "Python/Global/venv/Что такое venv и как настроить.md",
+    "Python/Global/Python.md",
+    "GO/Base/Vars/Переменные.md",
+    "GO/Base/Vars/КОНСТАНТЫ.md",
+    "GO/Base/Global/GOLANG.md",
+    "Symbols.md",
+    "GO/Base/Vars/Без названия",
+    "GO/Base/Func, Struct and etc/Базовые конструкции.md",
+    "GO/Base/Vars/Типы данных.md",
+    "GO/Base/Func, Struct and etc",
+    "GO/Base/Global",
+    "GO/Base/Vars",
+    "GO/Base",
+    "GO",
+    "Python/Global/venv",
+    "Python/Django/Structure",
+    "Python/Django/Settings/Base/Базовые настройки среды.md",
+    "Python/Django/Settings/Base",
+    "Python/Django/Settings",
+    "Python/Django/Global/Команды.md",
+    "GIT/Clone/git clone.md",
+    "Python/Django/models/Модели Django.md",
+    "Obsidian/Python/Django/Global/Что такое Django.md",
+    "Obsidian/Python/Django/Global/Команды.md",
+    "Obsidian/GIT/Clone/git clone.md",
     "FastApi.md",
     "Python/FastApi/DB/Создание сессий.md",
-    "Python/FastApi/env data/Без названия.md",
-    "Python/FastApi/env data/Секретные данные.md",
-    "Python/FastApi/DB/Без названия",
-    "Python/FastApi/Global",
-    "Python/FastApi/env data",
-    "Python/FastApi/Main",
-    "Python/FastApi/DB",
-    "Python/FastApi",
-    "Python",
-    "Untitled 1",
-    "Untitled"
+    "Python/FastApi/env data/Без названия.md"
   ]
 }
