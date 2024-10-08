@@ -4,27 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "7239547c9a10a56f",
+        "id": "6a402650616ed632",
         "type": "tabs",
         "children": [
           {
-            "id": "f7e5d4712d4725ea",
+            "id": "fd40d582f537eef6",
             "type": "leaf",
             "state": {
               "type": "graph",
               "state": {}
-            }
-          },
-          {
-            "id": "871f9df637c5ac09",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Symbols.md",
-                "mode": "source",
-                "source": false
-              }
             }
           }
         ]
@@ -132,13 +120,21 @@
               "type": "outline",
               "state": {}
             }
+          },
+          {
+            "id": "12edefec92eea4a3",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -147,41 +143,50 @@
       "canvas:Создать новый холст": false,
       "daily-notes:Сегодняшняя заметка": false,
       "templates:Вставить шаблон": false,
-      "command-palette:Открыть палитру команд": false
+      "command-palette:Открыть палитру команд": false,
+      "obsidian-git:Open Git source control": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f7e5d4712d4725ea",
+  "active": "fd40d582f537eef6",
   "lastOpenFiles": [
+    "GO/Base/Переменные и данные/Типы Данных/Структуры/Структуры.md",
+    "GO/Base/Переменные и данные/Типы Данных/Структуры/Методы.md",
+    "GO/Base/Input and Output/Вывод.md",
+    "GO/Base/Переменные и данные/Типы Данных/Логические.md",
+    "GO/Base/Input and Output/Ввод.md",
+    "GO/Base/Переменные и данные/Переменные/Переменные.md",
+    "GO/Base/Переменные и данные/Типы Данных/Дробные числа.md",
+    "GO/Base/Func, Struct and etc/Базовые конструкции.md",
+    "GO/Base/Переменные и данные/Типы Данных/Без названия",
+    "GO/Base/Global/GOLANG.md",
+    "GO/Base/Func, Struct and etc/Функции.md",
+    "GO/Base/Переменные и данные/Типы Данных/Целые числа.md",
+    "GO/Base/Переменные и данные/Типы Данных/Строки.md",
+    "GO/Base/Переменные и данные/Типы Данных/Байты.md",
+    "Типы данных.md",
+    "GO/Base/Переменные и данные/Переменные/КОНСТАНТЫ.md",
+    "Без названия.canvas",
+    "GO/Base/Переменные и данные/Переменные",
+    "GO/Base/Переменные/Типы данных.md",
+    "().md",
+    "GO/Base/Переменные и данные/Типы Данных/Структуры",
+    "GO/Base/Переменные и данные/Типы Данных",
+    "GO/Base/Без названия",
+    "GO/Base/Packages",
+    "GO/Base/Input and Output",
+    "Symbols.md",
     "Python/FastApi/env data/Секретные данные.md",
     "Python/FastApi/Global/FastApi.md",
     "Python/Django/Global/Django.md",
     "Python/Global/venv/Что такое venv и как настроить.md",
     "Python/Global/Python.md",
-    "GO/Base/Vars/Переменные.md",
-    "GO/Base/Vars/КОНСТАНТЫ.md",
-    "GO/Base/Global/GOLANG.md",
-    "Symbols.md",
-    "GO/Base/Vars/Без названия",
-    "GO/Base/Func, Struct and etc/Базовые конструкции.md",
-    "GO/Base/Vars/Типы данных.md",
     "GO/Base/Func, Struct and etc",
     "GO/Base/Global",
-    "GO/Base/Vars",
-    "GO/Base",
-    "GO",
-    "Python/Global/venv",
-    "Python/Django/Structure",
+    "GO/Base/Переменные и данные",
     "Python/Django/Settings/Base/Базовые настройки среды.md",
-    "Python/Django/Settings/Base",
-    "Python/Django/Settings",
     "Python/Django/Global/Команды.md",
-    "GIT/Clone/git clone.md",
-    "Python/Django/models/Модели Django.md",
-    "Obsidian/Python/Django/Global/Что такое Django.md",
-    "Obsidian/Python/Django/Global/Команды.md",
-    "Obsidian/GIT/Clone/git clone.md",
-    "FastApi.md",
-    "Python/FastApi/DB/Создание сессий.md",
-    "Python/FastApi/env data/Без названия.md"
+    "GIT/Clone/git clone.md"
   ]
 }
