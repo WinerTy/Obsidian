@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "6a402650616ed632",
+        "id": "5c6b4343a14f967a",
         "type": "tabs",
         "children": [
           {
-            "id": "fd40d582f537eef6",
+            "id": "03edec38e5e6ed6c",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "GO/Base/Переменные и данные/Типы Данных/MAP.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "GO/Base/Переменные и данные/Типы Данных/MAP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "GO/Base/Переменные и данные/Типы Данных/MAP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "GO/Base/Переменные и данные/Типы Данных/MAP.md"
+              }
             }
           },
           {
@@ -149,8 +157,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "fd40d582f537eef6",
+  "active": "03edec38e5e6ed6c",
   "lastOpenFiles": [
+    "GO/Base/Переменные и данные/Типы Данных/MAP.md",
+    "Python/Django/Global/Команды.md",
+    "GO/Base/Func, Struct and etc/Базовые конструкции.md",
     "GO/Base/Переменные и данные/Типы Данных/Структуры/Структуры.md",
     "GO/Base/Переменные и данные/Типы Данных/Структуры/Методы.md",
     "GO/Base/Input and Output/Вывод.md",
@@ -158,7 +169,6 @@
     "GO/Base/Input and Output/Ввод.md",
     "GO/Base/Переменные и данные/Переменные/Переменные.md",
     "GO/Base/Переменные и данные/Типы Данных/Дробные числа.md",
-    "GO/Base/Func, Struct and etc/Базовые конструкции.md",
     "GO/Base/Переменные и данные/Типы Данных/Без названия",
     "GO/Base/Global/GOLANG.md",
     "GO/Base/Func, Struct and etc/Функции.md",
@@ -185,8 +195,6 @@
     "GO/Base/Func, Struct and etc",
     "GO/Base/Global",
     "GO/Base/Переменные и данные",
-    "Python/Django/Settings/Base/Базовые настройки среды.md",
-    "Python/Django/Global/Команды.md",
-    "GIT/Clone/git clone.md"
+    "Python/Django/Settings/Base/Базовые настройки среды.md"
   ]
 }
