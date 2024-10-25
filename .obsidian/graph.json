@@ -20,18 +20,25 @@
         "a": 1,
         "rgb": 14725458
       }
+    },
+    {
+      "query": "DataFrame",
+      "color": {
+        "a": 1,
+        "rgb": 7803833
+      }
     }
   ],
-  "collapse-display": true,
+  "collapse-display": false,
   "showArrow": false,
-  "textFadeMultiplier": -0.6,
-  "nodeSizeMultiplier": 1.325,
-  "lineSizeMultiplier": 2.26927083333333,
+  "textFadeMultiplier": -2.4,
+  "nodeSizeMultiplier": 1.22567567567568,
+  "lineSizeMultiplier": 1.67390852390852,
   "collapse-forces": false,
-  "centerStrength": 0.390625,
+  "centerStrength": 0.35031185031185,
   "repelStrength": 5.9375,
   "linkStrength": 1,
   "linkDistance": 157,
-  "scale": 1.4769860980686504,
+  "scale": 0.7514342322277634,
   "close": true
 }
