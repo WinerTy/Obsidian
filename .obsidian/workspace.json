@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "718727a58e68f8b0",
+        "id": "e87b7217a039d0b6",
         "type": "tabs",
         "children": [
           {
-            "id": "fc91c589531c9751",
+            "id": "8c6b1d20b2820791",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/ML/Pands/DataFrame/Base/Информация/Базовая информация.md",
+                "file": "Python/ML/Pandas/Base/Типы данных/Основные типы.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Базовая информация"
+              "title": "Основные типы"
             }
           }
         ]
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/ML/Pands/DataFrame/Base/Информация/Базовая информация.md",
+                "file": "Python/ML/Pandas/Base/Типы данных/Основные типы.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Базовая информация"
+              "title": "Backlinks for Основные типы"
             }
           },
           {
@@ -112,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/ML/Pands/DataFrame/Base/Информация/Базовая информация.md",
+                "file": "Python/ML/Pandas/Base/Типы данных/Основные типы.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Базовая информация"
+              "title": "Outgoing links from Основные типы"
             }
           },
           {
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/ML/Pands/DataFrame/Base/Информация/Базовая информация.md"
+                "file": "Python/ML/Pandas/Base/Типы данных/Основные типы.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Базовая информация"
+              "title": "Outline of Основные типы"
             }
           },
           {
@@ -175,43 +175,46 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "fc91c589531c9751",
+  "active": "8c6b1d20b2820791",
   "lastOpenFiles": [
-    "Python/ML/Pands/Series/Base/Series.md",
-    "Python/ML/Pands/Series/Base/Untitled.md",
-    "Python/FrameWorks",
-    "Python/Global/Python.md",
-    "Python/ML/NumPy/Base/NumPy.md",
-    "Python/ML/Pands/Base/Pandas.md",
-    "Python/ML/Pands/Base/Типы данных/Основные типы.md",
-    "Python/ML/Pands/Base/Типы данных",
-    "Python/ML/Pands/DataFrame/Base/Работа с данными/Добавление.md",
-    "Python/ML/Pands/DataFrame/Base/Извлечение данных.md",
-    "Python/ML/Pands/DataFrame/Base/Информация/Базовая информация.md",
-    "Python/ML/Pands/DataFrame/Base/Информация",
+    "Python/ML/Pandas/Base/Pandas.md",
+    "Python/ML/Pandas/DataFrame/Base/Информация/Базовая информация.md",
+    "Python/ML/Pandas/DataFrame/Base/Термины/DataFrame.md",
+    "Python/ML/Pandas/DataFrame/Base/Фильтрация/Через условия.md",
+    "Python/ML/Pandas/DataFrame/Base/Работа с файлами/Файлы.md",
+    "Python/ML/Pandas/DataFrame/Base/Работа с данными/Таблица.md",
+    "Python/ML/Pandas/DataFrame/Base/Работа с данными/Удаление.md",
+    "Python/ML/Pandas/DataFrame/Base/Работа с данными/Создание DataFrame.md",
+    "Python/ML/Pandas/DataFrame/Base/Работа с данными/Извлечение.md",
+    "Python/ML/Pandas/DataFrame/Base/Работа с данными/Добавление.md",
+    "Python/ML/Pandas/Series/Base/Untitled.md",
+    "Python/ML/Pandas/Series/Base/Series.md",
+    "Python/ML/Pandas/DataFrame/Base/Информация",
+    "Python/ML/Pandas/DataFrame/Base/Термины",
+    "Python/ML/Pandas/DataFrame/Base/Фильтрация",
+    "Python/ML/Pandas/DataFrame/Base/Работа с файлами",
+    "Python/ML/Pandas/DataFrame/Base/Работа с данными",
+    "Python/ML/Pandas/Base/Типы данных/Основные типы.md",
+    "Python/ML/Pandas/Series/Base",
+    "Python/ML/Pandas/DataFrame/Base",
+    "Python/ML/Pandas/Base/Типы данных",
+    "Python/ML/Pandas/assets/tips.csv",
+    "Python/ML/Pandas/assets/simple.html",
+    "Python/ML/Pandas/assets/reshaping_pivot.png",
+    "Python/ML/Pands/DataFrame/Base/Фильтрация/Через условия.md",
     "Python/ML/Pands/DataFrame/Base/Термины/DataFrame.md",
-    "Python/ML/Pands/DataFrame/Base/Термины",
-    "Python/ML/Pands/DataFrame/Base/Untitled.md",
-    "Python/ML/Pands/DataFrame/Base/Работа с файлами",
     "Python/ML/Pands/DataFrame/Base/Работа с файлами/Файлы.md",
-    "Python/ML/NumPy/Base",
-    "Python/ML/Pands/DataFrame/Base/Работа с данными/Создание DataFrame.md",
     "Python/ML/Pands/DataFrame/Base/Работа с данными/Таблица.md",
-    "Python/ML/Pands/Base",
     "Python/ML/Pands/DataFrame/Base/Работа с данными/Удаление.md",
-    "удаления.md",
+    "Python/ML/Pands/DataFrame/Base/Работа с данными/Создание DataFrame.md",
     "Python/ML/Pands/DataFrame/Base/Работа с данными/Извлечение.md",
-    "Python/ML/Pands/DataFrame/Base/Работа с данными",
-    "Python/ML/Pands/Series/Base",
-    "Python/ML/Pands/DataFrame/Base",
-    "GO/Base/Переменные и данные/Типы Данных/MAP.md",
-    "Python/FrameWorks/Django/Global/Команды.md",
-    "GO/Base/Func, Struct and etc/Базовые конструкции.md",
-    "GO/Base/Переменные и данные/Типы Данных/Структуры/Структуры.md",
-    "GO/Base/Переменные и данные/Типы Данных/Структуры/Методы.md",
-    "GO/Base/Input and Output/Вывод.md",
-    "GO/Base/Переменные и данные/Типы Данных/Логические.md",
-    "GO/Base/Input and Output/Ввод.md",
+    "Python/ML/Pands/DataFrame/Base/Работа с данными/Добавление.md",
+    "Python/ML/Pands/DataFrame/Base/Информация/Базовая информация.md",
+    "Python/ML/Pands/Base/Типы данных/Основные типы.md",
+    "Python/ML/Pands/Series/Base/Untitled.md",
+    "Python/ML/Pands/Series/Base/Series.md",
+    "Python/ML/Pands/Base/Pandas.md",
+    "Python/ML/Pands/assets/reshaping_pivot.png",
     "Без названия.canvas"
   ]
 }
