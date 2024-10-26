@@ -13,26 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/ML/Pandas/DataFrame/Фильтрация/Sort values.md",
+                "file": "Python/ML/Pandas/DataFrame/Работа с данными/Пустые данные.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sort values"
-            }
-          },
-          {
-            "id": "534636e17abe3587",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Python/ML/Pandas/DataFrame/Функции/Corr.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Corr"
+              "title": "Пустые данные"
             }
           }
         ]
@@ -189,12 +175,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5b63978310af414c",
+  "active": "b8fbc483b99c5828",
   "lastOpenFiles": [
     "Python/ML/Pandas/DataFrame/TO DO.md",
+    "Python/ML/Pandas/DataFrame/Термины/DataFrame.md",
+    "Python/ML/Pandas/DataFrame/Функции/Corr.md",
+    "Python/ML/Pandas/DataFrame/Работа с данными/Пустые данные.md",
+    "GO/Base/Global/GOLANG.md",
     "Python/ML/Pandas/DataFrame/Фильтрация/Sort values.md",
     "Python/ML/Pandas/DataFrame/Функции/Apply.md",
-    "Python/ML/Pandas/DataFrame/Функции/Corr.md",
     "Python/ML/Pandas/DataFrame/Фильтрация/DataFrame фильтры.md",
     "Python/ML/Pandas/DataFrame/Векторизация",
     "Symbols.md",
@@ -210,7 +199,6 @@
     "Python/ML/Pandas/DataFrame/Информация/Базовая информация.md",
     "Python/ML/Pandas/Base/Типы данных/Основные типы.md",
     "Python/ML/Pandas/Base/Pandas.md",
-    "Python/ML/Pandas/DataFrame/Термины/DataFrame.md",
     "Python/ML/Pandas/DataFrame/Работа с файлами/Файлы.md",
     "Python/ML/Pandas/Series/Base/Untitled.md",
     "Python/ML/Pandas/Series/Base/Series.md",
@@ -226,8 +214,6 @@
     "Python/ML/Pands/DataFrame/Base/Термины/DataFrame.md",
     "Python/ML/Pands/DataFrame/Base/Работа с файлами/Файлы.md",
     "Python/ML/Pands/DataFrame/Base/Работа с данными/Таблица.md",
-    "Python/ML/Pands/DataFrame/Base/Работа с данными/Удаление.md",
-    "Python/ML/Pands/DataFrame/Base/Работа с данными/Создание DataFrame.md",
     "Python/ML/Pands/assets/reshaping_pivot.png",
     "Без названия.canvas"
   ]
