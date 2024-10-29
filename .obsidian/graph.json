@@ -3,9 +3,9 @@
   "search": "",
   "showTags": false,
   "showAttachments": false,
-  "hideUnresolved": false,
-  "showOrphans": true,
-  "collapse-color-groups": true,
+  "hideUnresolved": true,
+  "showOrphans": false,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "GOLANG",
@@ -27,6 +27,13 @@
         "a": 1,
         "rgb": 7803833
       }
+    },
+    {
+      "query": "merge",
+      "color": {
+        "a": 1,
+        "rgb": 5431378
+      }
     }
   ],
   "collapse-display": false,
@@ -39,6 +46,6 @@
   "repelStrength": 5.9375,
   "linkStrength": 1,
   "linkDistance": 157,
-  "scale": 1.0534979423868487,
+  "scale": 0.5359795996226064,
   "close": true
 }

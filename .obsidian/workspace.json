@@ -13,15 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/ML/Pandas/DataFrame/Работа с данными/Соединение/merge.md",
+                "file": "Python/ML/matplotlib/figure/Figures.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "merge"
+              "title": "Figures"
+            }
+          },
+          {
+            "id": "bf4ccc0bff0d8ff0",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -175,14 +186,26 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c4f5371ae9df0de2",
+  "active": "bf4ccc0bff0d8ff0",
   "lastOpenFiles": [
+    "Python/ML/matplotlib/figure/Figures.md",
+    "Python/ML/matplotlib/base/Matplotlib.md",
+    "Python/ML/matplotlib/figure",
+    "Python/ML/Pandas/DataFrame/Сводные таблицы/pivot table.md",
+    "Python/ML/matplotlib/base",
+    "Python/ML/matplotlib",
+    "Python/ML/Pandas/DataFrame/Сводные таблицы/pivot.md",
+    "Python/ML/Pandas/DataFrame/Работа с данными/Соединение/merge.md",
+    "Python/ML/Pandas/DataFrame/Работа с данными/Функции/resample.md",
+    "Python/ML/Pandas/DataFrame/Сводные таблицы",
+    "Python/ML/Pandas/DataFrame/Термины/мультииндекс.md",
+    "Python/ML/Pandas/DataFrame/Работа с данными/Функции/set index.md",
+    "Python/ML/Pandas/DataFrame/Работа с данными/Соединение/left join.md",
+    "Python/ML/Pandas/DataFrame/Работа с данными/Функции",
     "Python/ML/Pandas/DataFrame/Работа с данными/Соединение/outer join.md",
     "Python/ML/Pandas/DataFrame/Работа с данными/Соединение/right join.md",
-    "Python/ML/Pandas/DataFrame/Работа с данными/Соединение/left join.md",
     "NaN.md",
     "Python/ML/Pandas/DataFrame/Работа с данными/Соединение/inner join.md",
-    "Python/ML/Pandas/DataFrame/Работа с данными/Соединение/merge.md",
     "Python/ML/Pandas/DataFrame/Термины/DataFrame.md",
     "Python/ML/Pandas/DataFrame/Работа с данными/Соединение",
     "Python/ML/Pandas/DataFrame/Функции/std.md",
@@ -199,22 +222,10 @@
     "Python/ML/Pandas/DataFrame/Работа с данными/Базовые методы/Добавление.md",
     "Python/ML/Pandas/DataFrame/Работа с данными/Базовые методы/Пустые данные.md",
     "Python/ML/Pandas/DataFrame/Работа с данными/Базовые методы/Создание DataFrame.md",
-    "Python/ML/Pandas/DataFrame/Функции/Mean.md",
     "Python/ML/Pandas/DataFrame/Работа с данными/Базовые методы",
-    "Python/ML/Pandas/DataFrame/Работа с данными/Untitled.md",
     "Python/ML/Pandas/DataFrame/Работа с данными/Группировка",
-    "Python/ML/Pandas/DataFrame/TO DO.md",
-    "Python/ML/Pandas/DataFrame/Фильтрация/DataFrame фильтры.md",
-    "Python/ML/Pandas/DataFrame/Функции/Corr.md",
-    "GO/Base/Global/GOLANG.md",
-    "Python/ML/Pandas/DataFrame/Фильтрация/Sort values.md",
     "Python/ML/Pandas/DataFrame/Векторизация",
-    "Python/ML/Pandas/DataFrame/Функции",
     "Python/ML/Pandas/assets/reshaping_pivot.png",
-    "Python/ML/Pandas/DataFrame/Информация",
-    "Python/ML/Pandas/DataFrame/Термины",
-    "Python/ML/Pandas/DataFrame/Фильтрация",
-    "Python/ML/Pandas/DataFrame/Работа с файлами",
     "Python/ML/Pands/assets/reshaping_pivot.png",
     "Без названия.canvas"
   ]
