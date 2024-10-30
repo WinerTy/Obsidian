@@ -36,3 +36,5 @@ plt.legend()
 # Показываем график
 plt.show()
 ```
+
+#MatPlotLib

@@ -3,49 +3,56 @@
   "search": "",
   "showTags": false,
   "showAttachments": false,
-  "hideUnresolved": true,
-  "showOrphans": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "GOLANG",
+      "query": "path:Python/ML/Pandas  ",
       "color": {
         "a": 1,
-        "rgb": 1093861
+        "rgb": 14627554
       }
     },
     {
-      "query": "PYTHON",
+      "query": "path:Python/ML/NumPy  ",
       "color": {
         "a": 1,
-        "rgb": 14725458
+        "rgb": 11532570
       }
     },
     {
-      "query": "DataFrame",
+      "query": "path:Python/ML/matplotlib  ",
       "color": {
         "a": 1,
-        "rgb": 7803833
+        "rgb": 786146
       }
     },
     {
-      "query": "merge",
+      "query": "path:GO  ",
       "color": {
         "a": 1,
-        "rgb": 5431378
+        "rgb": 2303
+      }
+    },
+    {
+      "query": "path:GIT  ",
+      "color": {
+        "a": 1,
+        "rgb": 13375769
       }
     }
   ],
-  "collapse-display": false,
+  "collapse-display": true,
   "showArrow": false,
-  "textFadeMultiplier": -2.4,
-  "nodeSizeMultiplier": 1.22567567567568,
-  "lineSizeMultiplier": 1.67390852390852,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
   "collapse-forces": false,
-  "centerStrength": 0.35031185031185,
-  "repelStrength": 5.9375,
+  "centerStrength": 0.518713248970312,
+  "repelStrength": 10,
   "linkStrength": 1,
-  "linkDistance": 157,
-  "scale": 0.5359795996226064,
+  "linkDistance": 250,
+  "scale": 1.0534979423868724,
   "close": true
 }
