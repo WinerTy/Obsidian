@@ -4,7 +4,7 @@
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
-  "showOrphans": true,
+  "showOrphans": false,
   "collapse-color-groups": false,
   "colorGroups": [
     {
@@ -41,6 +41,20 @@
         "a": 1,
         "rgb": 13375769
       }
+    },
+    {
+      "query": "path:Python/ML/seaborn  ",
+      "color": {
+        "a": 1,
+        "rgb": 3386086
+      }
+    },
+    {
+      "query": "path:Python/FrameWorks/Django  ",
+      "color": {
+        "a": 1,
+        "rgb": 41731
+      }
     }
   ],
   "collapse-display": true,
@@ -53,6 +67,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 1.0534979423868724,
+  "scale": 0.3823010968770144,
   "close": true
 }
