@@ -55,6 +55,13 @@
         "a": 1,
         "rgb": 41731
       }
+    },
+    {
+      "query": "path:Python/ML/sklearn  ",
+      "color": {
+        "a": 1,
+        "rgb": 4259937
+      }
     }
   ],
   "collapse-display": true,
@@ -68,5 +75,5 @@
   "linkStrength": 1,
   "linkDistance": 250,
   "scale": 0.38230109687701497,
-  "close": true
+  "close": false
 }

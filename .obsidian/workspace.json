@@ -4,24 +4,49 @@
     "type": "split",
     "children": [
       {
-        "id": "522ed7f04df93f04",
+        "id": "70c47b402c9ebce7",
         "type": "tabs",
         "children": [
           {
-            "id": "1c6e16a7b6270d5c",
+            "id": "3b47d219c6056cae",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/ML/Pandas/DataFrame/Работа с данными/Базовые методы/Удаление.md",
+                "file": "Python/ML/sklearn/Base/sklearn.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Удаление"
+              "title": "sklearn"
+            }
+          },
+          {
+            "id": "bf52e46694664b39",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Python/ML/sklearn/Регрессия/LinearRegression.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "LinearRegression"
+            }
+          },
+          {
+            "id": "ed3458a32f108cd8",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -175,8 +200,22 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1c6e16a7b6270d5c",
+  "active": "bf52e46694664b39",
   "lastOpenFiles": [
+    "Python/ML/sklearn/Base/sklearn.md",
+    "Python/ML/sklearn/Регрессия/LinearRegression.md",
+    "Python/ML/sklearn/Модели/train_test_split.md",
+    "Python/ML/sklearn/Предварительная обработка",
+    "Python/ML/sklearn/Модели",
+    "Python/ML/sklearn/Размерность",
+    "Python/ML/sklearn/Кластеризация",
+    "Python/ML/sklearn/Регрессия",
+    "Python/ML/sklearn/Классификация",
+    "Python/ML/sklearn/Base",
+    "Python/ML/NumPy/Функции/polyfit.md",
+    "Python/ML/sklearn",
+    "Python/ML/NumPy/Функции",
+    "Python/ML/Pandas/DataFrame/Работа с данными/Базовые методы/Удаление.md",
     "Python/ML/seaborn/Функции/histplot.md",
     "Python/ML/seaborn/Функции/displot.md",
     "Python/ML/seaborn/Функции/swarmplot.md",
@@ -194,27 +233,13 @@
     "Python/ML/seaborn/assets/example.jpg",
     "Python/ML/seaborn/assets",
     "Python/ML/seaborn/Base/Seaborn.md",
-    "Python/ML/seaborn/Функции",
     "Python/ML/Pandas/Base/Типы данных/Основные типы.md",
     "Python/ML/Pandas/Base/Pandas.md",
     "Python/ML/matplotlib/Untitled.canvas",
-    "Python/ML/seaborn/Base",
-    "Python/ML/seaborn",
     "Python/ML/Pandas/Series/Base/Untitled.md",
     "Python/ML/matplotlib/figure/Настройки фигуры и поля/Доп линии/vlines.md",
     "Python/Global/Python.md",
     "Python/ML/matplotlib/figure/Настройки фигуры и поля/Доп линии/twinx и twiny.md",
-    "Python/ML/matplotlib/figure/Настройки фигуры и поля/Доп линии/plot.md",
-    "Python/ML/matplotlib/figure/Настройки фигуры и поля/Доп линии/hlines.md",
-    "Python/ML/matplotlib/figure/Настройки фигуры и поля/Доп линии/grid.md",
-    "Python/ML/matplotlib/figure/Настройки фигуры и поля/Доп линии/fill_between.md",
-    "Python/ML/matplotlib/figure/Настройки фигуры и поля/Доп линии/axvline.md",
-    "Python/ML/matplotlib/figure/Настройки фигуры и поля/Текст",
-    "Python/ML/matplotlib/figure/Настройки фигуры и поля/Отображение",
-    "Python/ML/matplotlib/figure/Настройки фигуры и поля/Доп линии",
-    "Python/ML/matplotlib/figure/Настройки фигуры и поля",
-    "Python/ML/matplotlib/figure",
-    "Python/ML/matplotlib/base",
     "Pasted image 20241028155516.png",
     "Python/ML/Pandas/assets/reshaping_pivot.png",
     "Python/ML/Pands/assets/reshaping_pivot.png",
